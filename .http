@@ -1,0 +1,7 @@
+@local=http://localhost:8000/api
+
+###
+GET {{local}} HTTP/1.1
+
+###
+GET https://api.first.org/data/v1/countries HTTP/1.1
